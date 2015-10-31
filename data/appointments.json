@@ -1,0 +1,1289 @@
+[
+    {
+        "confirmStatus": null,
+        "visitType": "New Patient",
+        "surgeryTimeOfDay": null,
+        "isSurgery": false,
+        "date": "2015-10-15",
+        "time": "10:15 AM",
+        "patientInstruction": "",
+        "cancelDirectAllowed": true,
+        "cancelRequestAllowed": true,
+        "cancelRequestSent": false,
+        "isedVisit": false,
+        "providers": [
+            {
+                "id": null,
+                "name": "Meena Mital, MD",
+                "phone": "206-320-3399",
+                "departments": [
+                    {
+                        "id": null,
+                        "idType": null,
+                        "name": "Swedish Physicians West Seattle",
+                        "center": null,
+                        "departmentDirections": null
+                    }
+                ]
+            }
+        ],
+        "providerName": "Meena Mital, MD",
+        "providerPhone": "206-320-3399",
+        "providerDepartment": "Swedish Physicians West Seattle",
+        "appointmentId": "57690_93"
+    },
+    {
+        "confirmStatus": null,
+        "visitType": "New Patient",
+        "surgeryTimeOfDay": null,
+        "isSurgery": false,
+        "date": "2015-10-17",
+        "time": "6:00 AM",
+        "patientInstruction": "",
+        "cancelDirectAllowed": true,
+        "cancelRequestAllowed": true,
+        "cancelRequestSent": false,
+        "isedVisit": false,
+        "providers": [
+            {
+                "id": null,
+                "name": "Meena Mital, MD",
+                "phone": "206-320-3399",
+                "departments": [
+                    {
+                        "id": null,
+                        "idType": null,
+                        "name": "Swedish Physicians West Seattle",
+                        "center": null,
+                        "departmentDirections": null
+                    }
+                ]
+            }
+        ],
+        "providerName": "Meena Mital, MD",
+        "providerPhone": "206-320-3399",
+        "providerDepartment": "Swedish Physicians West Seattle",
+        "appointmentId": "57688_95"
+    },
+    {
+        "confirmStatus": null,
+        "visitType": "New Patient",
+        "surgeryTimeOfDay": null,
+        "isSurgery": false,
+        "date": "2015-10-17",
+        "time": "11:30 AM",
+        "patientInstruction": "",
+        "cancelDirectAllowed": true,
+        "cancelRequestAllowed": true,
+        "cancelRequestSent": false,
+        "isedVisit": false,
+        "providers": [
+            {
+                "id": null,
+                "name": "Meena Mital, MD",
+                "phone": "206-320-3399",
+                "departments": [
+                    {
+                        "id": null,
+                        "idType": null,
+                        "name": "Swedish Physicians West Seattle",
+                        "center": null,
+                        "departmentDirections": null
+                    }
+                ]
+            }
+        ],
+        "providerName": "Meena Mital, MD",
+        "providerPhone": "206-320-3399",
+        "providerDepartment": "Swedish Physicians West Seattle",
+        "appointmentId": "57688_98"
+    },
+    {
+        "confirmStatus": null,
+        "visitType": "New Patient",
+        "surgeryTimeOfDay": null,
+        "isSurgery": false,
+        "date": "2015-10-17",
+        "time": "4:30 PM",
+        "patientInstruction": "",
+        "cancelDirectAllowed": true,
+        "cancelRequestAllowed": true,
+        "cancelRequestSent": false,
+        "isedVisit": false,
+        "providers": [
+            {
+                "id": null,
+                "name": "Meena Mital, MD",
+                "phone": "206-320-3399",
+                "departments": [
+                    {
+                        "id": null,
+                        "idType": null,
+                        "name": "Swedish Physicians West Seattle",
+                        "center": null,
+                        "departmentDirections": null
+                    }
+                ]
+            }
+        ],
+        "providerName": "Meena Mital, MD",
+        "providerPhone": "206-320-3399",
+        "providerDepartment": "Swedish Physicians West Seattle",
+        "appointmentId": "57688_97"
+    },
+    {
+        "confirmStatus": null,
+        "visitType": "New Patient",
+        "surgeryTimeOfDay": null,
+        "isSurgery": false,
+        "date": "2015-10-18",
+        "time": "6:45 AM",
+        "patientInstruction": "",
+        "cancelDirectAllowed": true,
+        "cancelRequestAllowed": true,
+        "cancelRequestSent": false,
+        "isedVisit": false,
+        "providers": [
+            {
+                "id": null,
+                "name": "Meena Mital, MD",
+                "phone": "206-320-3399",
+                "departments": [
+                    {
+                        "id": null,
+                        "idType": null,
+                        "name": "Swedish Physicians West Seattle",
+                        "center": null,
+                        "departmentDirections": null
+                    }
+                ]
+            }
+        ],
+        "providerName": "Meena Mital, MD",
+        "providerPhone": "206-320-3399",
+        "providerDepartment": "Swedish Physicians West Seattle",
+        "appointmentId": "57687_97"
+    },
+    {
+        "confirmStatus": null,
+        "visitType": "New Patient",
+        "surgeryTimeOfDay": null,
+        "isSurgery": false,
+        "date": "2015-10-18",
+        "time": "9:15 AM",
+        "patientInstruction": "",
+        "cancelDirectAllowed": true,
+        "cancelRequestAllowed": true,
+        "cancelRequestSent": false,
+        "isedVisit": false,
+        "providers": [
+            {
+                "id": null,
+                "name": "Meena Mital, MD",
+                "phone": "206-320-3399",
+                "departments": [
+                    {
+                        "id": null,
+                        "idType": null,
+                        "name": "Swedish Physicians West Seattle",
+                        "center": null,
+                        "departmentDirections": null
+                    }
+                ]
+            }
+        ],
+        "providerName": "Meena Mital, MD",
+        "providerPhone": "206-320-3399",
+        "providerDepartment": "Swedish Physicians West Seattle",
+        "appointmentId": "57687_99"
+    },
+    {
+        "confirmStatus": null,
+        "visitType": "New Patient",
+        "surgeryTimeOfDay": null,
+        "isSurgery": false,
+        "date": "2015-10-18",
+        "time": "12:45 PM",
+        "patientInstruction": "",
+        "cancelDirectAllowed": true,
+        "cancelRequestAllowed": true,
+        "cancelRequestSent": false,
+        "isedVisit": false,
+        "providers": [
+            {
+                "id": null,
+                "name": "Meena Mital, MD",
+                "phone": "206-320-3399",
+                "departments": [
+                    {
+                        "id": null,
+                        "idType": null,
+                        "name": "Swedish Physicians West Seattle",
+                        "center": null,
+                        "departmentDirections": null
+                    }
+                ]
+            }
+        ],
+        "providerName": "Meena Mital, MD",
+        "providerPhone": "206-320-3399",
+        "providerDepartment": "Swedish Physicians West Seattle",
+        "appointmentId": "57688"
+    },
+    {
+        "confirmStatus": null,
+        "visitType": "New Patient",
+        "surgeryTimeOfDay": null,
+        "isSurgery": false,
+        "date": "2015-10-18",
+        "time": "2:00 PM",
+        "patientInstruction": "",
+        "cancelDirectAllowed": true,
+        "cancelRequestAllowed": true,
+        "cancelRequestSent": false,
+        "isedVisit": false,
+        "providers": [
+            {
+                "id": null,
+                "name": "Meena Mital, MD",
+                "phone": "206-320-3399",
+                "departments": [
+                    {
+                        "id": null,
+                        "idType": null,
+                        "name": "Swedish Physicians West Seattle",
+                        "center": null,
+                        "departmentDirections": null
+                    }
+                ]
+            }
+        ],
+        "providerName": "Meena Mital, MD",
+        "providerPhone": "206-320-3399",
+        "providerDepartment": "Swedish Physicians West Seattle",
+        "appointmentId": "57687_98"
+    },
+    {
+        "confirmStatus": null,
+        "visitType": "New Patient",
+        "surgeryTimeOfDay": null,
+        "isSurgery": false,
+        "date": "2015-10-24",
+        "time": "6:15 AM",
+        "patientInstruction": "",
+        "cancelDirectAllowed": true,
+        "cancelRequestAllowed": true,
+        "cancelRequestSent": false,
+        "isedVisit": false,
+        "providers": [
+            {
+                "id": null,
+                "name": "Meena Mital, MD",
+                "phone": "206-320-3399",
+                "departments": [
+                    {
+                        "id": null,
+                        "idType": null,
+                        "name": "Swedish Physicians West Seattle",
+                        "center": null,
+                        "departmentDirections": null
+                    }
+                ]
+            }
+        ],
+        "providerName": "Meena Mital, MD",
+        "providerPhone": "206-320-3399",
+        "providerDepartment": "Swedish Physicians West Seattle",
+        "appointmentId": "57681_93"
+    },
+    {
+        "confirmStatus": null,
+        "visitType": "New Patient",
+        "surgeryTimeOfDay": null,
+        "isSurgery": false,
+        "date": "2015-10-24",
+        "time": "7:45 AM",
+        "patientInstruction": "",
+        "cancelDirectAllowed": true,
+        "cancelRequestAllowed": true,
+        "cancelRequestSent": false,
+        "isedVisit": false,
+        "providers": [
+            {
+                "id": null,
+                "name": "Meena Mital, MD",
+                "phone": "206-320-3399",
+                "departments": [
+                    {
+                        "id": null,
+                        "idType": null,
+                        "name": "Swedish Physicians West Seattle",
+                        "center": null,
+                        "departmentDirections": null
+                    }
+                ]
+            }
+        ],
+        "providerName": "Meena Mital, MD",
+        "providerPhone": "206-320-3399",
+        "providerDepartment": "Swedish Physicians West Seattle",
+        "appointmentId": "57681_95"
+    },
+    {
+        "confirmStatus": null,
+        "visitType": "New Patient",
+        "surgeryTimeOfDay": null,
+        "isSurgery": false,
+        "date": "2015-10-24",
+        "time": "12:15 PM",
+        "patientInstruction": "",
+        "cancelDirectAllowed": true,
+        "cancelRequestAllowed": true,
+        "cancelRequestSent": false,
+        "isedVisit": false,
+        "providers": [
+            {
+                "id": null,
+                "name": "Meena Mital, MD",
+                "phone": "206-320-3399",
+                "departments": [
+                    {
+                        "id": null,
+                        "idType": null,
+                        "name": "Swedish Physicians West Seattle",
+                        "center": null,
+                        "departmentDirections": null
+                    }
+                ]
+            }
+        ],
+        "providerName": "Meena Mital, MD",
+        "providerPhone": "206-320-3399",
+        "providerDepartment": "Swedish Physicians West Seattle",
+        "appointmentId": "57681_97"
+    },
+    {
+        "confirmStatus": null,
+        "visitType": "New Patient",
+        "surgeryTimeOfDay": null,
+        "isSurgery": false,
+        "date": "2015-10-24",
+        "time": "4:15 PM",
+        "patientInstruction": "",
+        "cancelDirectAllowed": true,
+        "cancelRequestAllowed": true,
+        "cancelRequestSent": false,
+        "isedVisit": false,
+        "providers": [
+            {
+                "id": null,
+                "name": "Meena Mital, MD",
+                "phone": "206-320-3399",
+                "departments": [
+                    {
+                        "id": null,
+                        "idType": null,
+                        "name": "Swedish Physicians West Seattle",
+                        "center": null,
+                        "departmentDirections": null
+                    }
+                ]
+            }
+        ],
+        "providerName": "Meena Mital, MD",
+        "providerPhone": "206-320-3399",
+        "providerDepartment": "Swedish Physicians West Seattle",
+        "appointmentId": "57681_94"
+    },
+    {
+        "confirmStatus": null,
+        "visitType": "New Patient",
+        "surgeryTimeOfDay": null,
+        "isSurgery": false,
+        "date": "2015-10-24",
+        "time": "5:15 PM",
+        "patientInstruction": "",
+        "cancelDirectAllowed": true,
+        "cancelRequestAllowed": true,
+        "cancelRequestSent": false,
+        "isedVisit": false,
+        "providers": [
+            {
+                "id": null,
+                "name": "Meena Mital, MD",
+                "phone": "206-320-3399",
+                "departments": [
+                    {
+                        "id": null,
+                        "idType": null,
+                        "name": "Swedish Physicians West Seattle",
+                        "center": null,
+                        "departmentDirections": null
+                    }
+                ]
+            }
+        ],
+        "providerName": "Meena Mital, MD",
+        "providerPhone": "206-320-3399",
+        "providerDepartment": "Swedish Physicians West Seattle",
+        "appointmentId": "57682"
+    },
+    {
+        "confirmStatus": null,
+        "visitType": "Office Visit",
+        "surgeryTimeOfDay": null,
+        "isSurgery": false,
+        "date": "2015-10-25",
+        "time": "6:15 AM",
+        "patientInstruction": "Please arrive at clinic 15 minutes prior to appointment time.",
+        "cancelDirectAllowed": true,
+        "cancelRequestAllowed": true,
+        "cancelRequestSent": false,
+        "isedVisit": false,
+        "providers": [
+            {
+                "id": null,
+                "name": "Meena Mital, MD",
+                "phone": "206-320-3399",
+                "departments": [
+                    {
+                        "id": null,
+                        "idType": null,
+                        "name": "Swedish Physicians West Seattle",
+                        "center": null,
+                        "departmentDirections": null
+                    }
+                ]
+            }
+        ],
+        "providerName": "Meena Mital, MD",
+        "providerPhone": "206-320-3399",
+        "providerDepartment": "Swedish Physicians West Seattle",
+        "appointmentId": "57680_98"
+    },
+    {
+        "confirmStatus": null,
+        "visitType": "Office Visit",
+        "surgeryTimeOfDay": null,
+        "isSurgery": false,
+        "date": "2015-10-25",
+        "time": "7:00 AM",
+        "patientInstruction": "Please arrive at clinic 15 minutes prior to appointment time.",
+        "cancelDirectAllowed": true,
+        "cancelRequestAllowed": true,
+        "cancelRequestSent": false,
+        "isedVisit": false,
+        "providers": [
+            {
+                "id": null,
+                "name": "Meena Mital, MD",
+                "phone": "206-320-3399",
+                "departments": [
+                    {
+                        "id": null,
+                        "idType": null,
+                        "name": "Swedish Physicians West Seattle",
+                        "center": null,
+                        "departmentDirections": null
+                    }
+                ]
+            }
+        ],
+        "providerName": "Meena Mital, MD",
+        "providerPhone": "206-320-3399",
+        "providerDepartment": "Swedish Physicians West Seattle",
+        "appointmentId": "57680_94"
+    },
+    {
+        "confirmStatus": null,
+        "visitType": "Office Visit",
+        "surgeryTimeOfDay": null,
+        "isSurgery": false,
+        "date": "2015-10-25",
+        "time": "10:45 AM",
+        "patientInstruction": "Please arrive at clinic 15 minutes prior to appointment time.",
+        "cancelDirectAllowed": true,
+        "cancelRequestAllowed": true,
+        "cancelRequestSent": false,
+        "isedVisit": false,
+        "providers": [
+            {
+                "id": null,
+                "name": "Meena Mital, MD",
+                "phone": "206-320-3399",
+                "departments": [
+                    {
+                        "id": null,
+                        "idType": null,
+                        "name": "Swedish Physicians West Seattle",
+                        "center": null,
+                        "departmentDirections": null
+                    }
+                ]
+            }
+        ],
+        "providerName": "Meena Mital, MD",
+        "providerPhone": "206-320-3399",
+        "providerDepartment": "Swedish Physicians West Seattle",
+        "appointmentId": "57680_97"
+    },
+    {
+        "confirmStatus": null,
+        "visitType": "New Patient",
+        "surgeryTimeOfDay": null,
+        "isSurgery": false,
+        "date": "2015-10-25",
+        "time": "12:00 PM",
+        "patientInstruction": "",
+        "cancelDirectAllowed": true,
+        "cancelRequestAllowed": true,
+        "cancelRequestSent": false,
+        "isedVisit": false,
+        "providers": [
+            {
+                "id": null,
+                "name": "Meena Mital, MD",
+                "phone": "206-320-3399",
+                "departments": [
+                    {
+                        "id": null,
+                        "idType": null,
+                        "name": "Swedish Physicians West Seattle",
+                        "center": null,
+                        "departmentDirections": null
+                    }
+                ]
+            }
+        ],
+        "providerName": "Meena Mital, MD",
+        "providerPhone": "206-320-3399",
+        "providerDepartment": "Swedish Physicians West Seattle",
+        "appointmentId": "57680_99"
+    },
+    {
+        "confirmStatus": null,
+        "visitType": "Office Visit",
+        "surgeryTimeOfDay": null,
+        "isSurgery": false,
+        "date": "2015-10-25",
+        "time": "1:30 PM",
+        "patientInstruction": "Please arrive at clinic 15 minutes prior to appointment time.",
+        "cancelDirectAllowed": true,
+        "cancelRequestAllowed": true,
+        "cancelRequestSent": false,
+        "isedVisit": false,
+        "providers": [
+            {
+                "id": null,
+                "name": "Meena Mital, MD",
+                "phone": "206-320-3399",
+                "departments": [
+                    {
+                        "id": null,
+                        "idType": null,
+                        "name": "Swedish Physicians West Seattle",
+                        "center": null,
+                        "departmentDirections": null
+                    }
+                ]
+            }
+        ],
+        "providerName": "Meena Mital, MD",
+        "providerPhone": "206-320-3399",
+        "providerDepartment": "Swedish Physicians West Seattle",
+        "appointmentId": "57680_96"
+    },
+    {
+        "confirmStatus": null,
+        "visitType": "New Patient",
+        "surgeryTimeOfDay": null,
+        "isSurgery": false,
+        "date": "2015-10-25",
+        "time": "4:30 PM",
+        "patientInstruction": "",
+        "cancelDirectAllowed": true,
+        "cancelRequestAllowed": true,
+        "cancelRequestSent": false,
+        "isedVisit": false,
+        "providers": [
+            {
+                "id": null,
+                "name": "Meena Mital, MD",
+                "phone": "206-320-3399",
+                "departments": [
+                    {
+                        "id": null,
+                        "idType": null,
+                        "name": "Swedish Physicians West Seattle",
+                        "center": null,
+                        "departmentDirections": null
+                    }
+                ]
+            }
+        ],
+        "providerName": "Meena Mital, MD",
+        "providerPhone": "206-320-3399",
+        "providerDepartment": "Swedish Physicians West Seattle",
+        "appointmentId": "57681"
+    },
+    {
+        "confirmStatus": null,
+        "visitType": "New Patient",
+        "surgeryTimeOfDay": null,
+        "isSurgery": false,
+        "date": "2015-10-26",
+        "time": "12:15 PM",
+        "patientInstruction": "",
+        "cancelDirectAllowed": true,
+        "cancelRequestAllowed": true,
+        "cancelRequestSent": false,
+        "isedVisit": false,
+        "providers": [
+            {
+                "id": null,
+                "name": "Meena Mital, MD",
+                "phone": "206-320-3399",
+                "departments": [
+                    {
+                        "id": null,
+                        "idType": null,
+                        "name": "Swedish Physicians West Seattle",
+                        "center": null,
+                        "departmentDirections": null
+                    }
+                ]
+            }
+        ],
+        "providerName": "Meena Mital, MD",
+        "providerPhone": "206-320-3399",
+        "providerDepartment": "Swedish Physicians West Seattle",
+        "appointmentId": "57679_96"
+    },
+    {
+        "confirmStatus": null,
+        "visitType": "New Patient",
+        "surgeryTimeOfDay": null,
+        "isSurgery": false,
+        "date": "2015-10-29",
+        "time": "1:15 PM",
+        "patientInstruction": "",
+        "cancelDirectAllowed": true,
+        "cancelRequestAllowed": true,
+        "cancelRequestSent": false,
+        "isedVisit": false,
+        "providers": [
+            {
+                "id": null,
+                "name": "Meena Mital, MD",
+                "phone": "206-320-3399",
+                "departments": [
+                    {
+                        "id": null,
+                        "idType": null,
+                        "name": "Swedish Physicians West Seattle",
+                        "center": null,
+                        "departmentDirections": null
+                    }
+                ]
+            }
+        ],
+        "providerName": "Meena Mital, MD",
+        "providerPhone": "206-320-3399",
+        "providerDepartment": "Swedish Physicians West Seattle",
+        "appointmentId": "57676_84"
+    },
+    {
+        "confirmStatus": null,
+        "visitType": "New Patient",
+        "surgeryTimeOfDay": null,
+        "isSurgery": false,
+        "date": "2015-10-30",
+        "time": "12:45 PM",
+        "patientInstruction": "",
+        "cancelDirectAllowed": true,
+        "cancelRequestAllowed": true,
+        "cancelRequestSent": false,
+        "isedVisit": false,
+        "providers": [
+            {
+                "id": null,
+                "name": "Meena Mital, MD",
+                "phone": "206-320-3399",
+                "departments": [
+                    {
+                        "id": null,
+                        "idType": null,
+                        "name": "Swedish Physicians West Seattle",
+                        "center": null,
+                        "departmentDirections": null
+                    }
+                ]
+            }
+        ],
+        "providerName": "Meena Mital, MD",
+        "providerPhone": "206-320-3399",
+        "providerDepartment": "Swedish Physicians West Seattle",
+        "appointmentId": "57675_82"
+    },
+    {
+        "confirmStatus": null,
+        "visitType": "New Patient",
+        "surgeryTimeOfDay": null,
+        "isSurgery": false,
+        "date": "2015-10-31",
+        "time": "12:00 PM",
+        "patientInstruction": "",
+        "cancelDirectAllowed": true,
+        "cancelRequestAllowed": true,
+        "cancelRequestSent": false,
+        "isedVisit": false,
+        "providers": [
+            {
+                "id": null,
+                "name": "Meena Mital, MD",
+                "phone": "206-320-3399",
+                "departments": [
+                    {
+                        "id": null,
+                        "idType": null,
+                        "name": "Swedish Physicians West Seattle",
+                        "center": null,
+                        "departmentDirections": null
+                    }
+                ]
+            }
+        ],
+        "providerName": "Meena Mital, MD",
+        "providerPhone": "206-320-3399",
+        "providerDepartment": "Swedish Physicians West Seattle",
+        "appointmentId": "57674_98"
+    },
+    {
+        "confirmStatus": null,
+        "visitType": "Office Visit",
+        "surgeryTimeOfDay": null,
+        "isSurgery": false,
+        "date": "2015-10-31",
+        "time": "3:30 PM",
+        "patientInstruction": "Please arrive at clinic 15 minutes prior to appointment time.",
+        "cancelDirectAllowed": true,
+        "cancelRequestAllowed": true,
+        "cancelRequestSent": false,
+        "isedVisit": false,
+        "providers": [
+            {
+                "id": null,
+                "name": "Meena Mital, MD",
+                "phone": "206-320-3399",
+                "departments": [
+                    {
+                        "id": null,
+                        "idType": null,
+                        "name": "Swedish Physicians West Seattle",
+                        "center": null,
+                        "departmentDirections": null
+                    }
+                ]
+            }
+        ],
+        "providerName": "Meena Mital, MD",
+        "providerPhone": "206-320-3399",
+        "providerDepartment": "Swedish Physicians West Seattle",
+        "appointmentId": "57674_95"
+    },
+    {
+        "confirmStatus": null,
+        "visitType": "New Patient",
+        "surgeryTimeOfDay": null,
+        "isSurgery": false,
+        "date": "2015-10-31",
+        "time": "4:00 PM",
+        "patientInstruction": "",
+        "cancelDirectAllowed": true,
+        "cancelRequestAllowed": true,
+        "cancelRequestSent": false,
+        "isedVisit": false,
+        "providers": [
+            {
+                "id": null,
+                "name": "Meena Mital, MD",
+                "phone": "206-320-3399",
+                "departments": [
+                    {
+                        "id": null,
+                        "idType": null,
+                        "name": "Swedish Physicians West Seattle",
+                        "center": null,
+                        "departmentDirections": null
+                    }
+                ]
+            }
+        ],
+        "providerName": "Meena Mital, MD",
+        "providerPhone": "206-320-3399",
+        "providerDepartment": "Swedish Physicians West Seattle",
+        "appointmentId": "57674_99"
+    },
+    {
+        "confirmStatus": null,
+        "visitType": "Office Visit",
+        "surgeryTimeOfDay": null,
+        "isSurgery": false,
+        "date": "2015-10-31",
+        "time": "5:00 PM",
+        "patientInstruction": "Please arrive at clinic 15 minutes prior to appointment time.",
+        "cancelDirectAllowed": true,
+        "cancelRequestAllowed": true,
+        "cancelRequestSent": false,
+        "isedVisit": false,
+        "providers": [
+            {
+                "id": null,
+                "name": "Meena Mital, MD",
+                "phone": "206-320-3399",
+                "departments": [
+                    {
+                        "id": null,
+                        "idType": null,
+                        "name": "Swedish Physicians West Seattle",
+                        "center": null,
+                        "departmentDirections": null
+                    }
+                ]
+            }
+        ],
+        "providerName": "Meena Mital, MD",
+        "providerPhone": "206-320-3399",
+        "providerDepartment": "Swedish Physicians West Seattle",
+        "appointmentId": "57674_94"
+    },
+    {
+        "confirmStatus": null,
+        "visitType": "New Patient",
+        "surgeryTimeOfDay": null,
+        "isSurgery": false,
+        "date": "2015-10-31",
+        "time": "5:45 PM",
+        "patientInstruction": "",
+        "cancelDirectAllowed": true,
+        "cancelRequestAllowed": true,
+        "cancelRequestSent": false,
+        "isedVisit": false,
+        "providers": [
+            {
+                "id": null,
+                "name": "Meena Mital, MD",
+                "phone": "206-320-3399",
+                "departments": [
+                    {
+                        "id": null,
+                        "idType": null,
+                        "name": "Swedish Physicians West Seattle",
+                        "center": null,
+                        "departmentDirections": null
+                    }
+                ]
+            }
+        ],
+        "providerName": "Meena Mital, MD",
+        "providerPhone": "206-320-3399",
+        "providerDepartment": "Swedish Physicians West Seattle",
+        "appointmentId": "57675"
+    },
+    {
+        "confirmStatus": null,
+        "visitType": "Office Visit",
+        "surgeryTimeOfDay": null,
+        "isSurgery": false,
+        "date": "2015-11-01",
+        "time": "6:00 AM",
+        "patientInstruction": "Please arrive at clinic 15 minutes prior to appointment time.",
+        "cancelDirectAllowed": true,
+        "cancelRequestAllowed": true,
+        "cancelRequestSent": false,
+        "isedVisit": false,
+        "providers": [
+            {
+                "id": null,
+                "name": "Meena Mital, MD",
+                "phone": "206-320-3399",
+                "departments": [
+                    {
+                        "id": null,
+                        "idType": null,
+                        "name": "Swedish Physicians West Seattle",
+                        "center": null,
+                        "departmentDirections": null
+                    }
+                ]
+            }
+        ],
+        "providerName": "Meena Mital, MD",
+        "providerPhone": "206-320-3399",
+        "providerDepartment": "Swedish Physicians West Seattle",
+        "appointmentId": "57673_94"
+    },
+    {
+        "confirmStatus": null,
+        "visitType": "New Patient",
+        "surgeryTimeOfDay": null,
+        "isSurgery": false,
+        "date": "2015-11-01",
+        "time": "6:45 AM",
+        "patientInstruction": "",
+        "cancelDirectAllowed": true,
+        "cancelRequestAllowed": true,
+        "cancelRequestSent": false,
+        "isedVisit": false,
+        "providers": [
+            {
+                "id": null,
+                "name": "Meena Mital, MD",
+                "phone": "206-320-3399",
+                "departments": [
+                    {
+                        "id": null,
+                        "idType": null,
+                        "name": "Swedish Physicians West Seattle",
+                        "center": null,
+                        "departmentDirections": null
+                    }
+                ]
+            }
+        ],
+        "providerName": "Meena Mital, MD",
+        "providerPhone": "206-320-3399",
+        "providerDepartment": "Swedish Physicians West Seattle",
+        "appointmentId": "57674"
+    },
+    {
+        "confirmStatus": null,
+        "visitType": "Office Visit",
+        "surgeryTimeOfDay": null,
+        "isSurgery": false,
+        "date": "2015-11-01",
+        "time": "11:30 AM",
+        "patientInstruction": "Please arrive at clinic 15 minutes prior to appointment time.",
+        "cancelDirectAllowed": true,
+        "cancelRequestAllowed": true,
+        "cancelRequestSent": false,
+        "isedVisit": false,
+        "providers": [
+            {
+                "id": null,
+                "name": "Meena Mital, MD",
+                "phone": "206-320-3399",
+                "departments": [
+                    {
+                        "id": null,
+                        "idType": null,
+                        "name": "Swedish Physicians West Seattle",
+                        "center": null,
+                        "departmentDirections": null
+                    }
+                ]
+            }
+        ],
+        "providerName": "Meena Mital, MD",
+        "providerPhone": "206-320-3399",
+        "providerDepartment": "Swedish Physicians West Seattle",
+        "appointmentId": "57673_95"
+    },
+    {
+        "confirmStatus": null,
+        "visitType": "New Patient",
+        "surgeryTimeOfDay": null,
+        "isSurgery": false,
+        "date": "2015-11-01",
+        "time": "12:00 PM",
+        "patientInstruction": "",
+        "cancelDirectAllowed": true,
+        "cancelRequestAllowed": true,
+        "cancelRequestSent": false,
+        "isedVisit": false,
+        "providers": [
+            {
+                "id": null,
+                "name": "Meena Mital, MD",
+                "phone": "206-320-3399",
+                "departments": [
+                    {
+                        "id": null,
+                        "idType": null,
+                        "name": "Swedish Physicians West Seattle",
+                        "center": null,
+                        "departmentDirections": null
+                    }
+                ]
+            }
+        ],
+        "providerName": "Meena Mital, MD",
+        "providerPhone": "206-320-3399",
+        "providerDepartment": "Swedish Physicians West Seattle",
+        "appointmentId": "57673_98"
+    },
+    {
+        "confirmStatus": null,
+        "visitType": "Office Visit",
+        "surgeryTimeOfDay": null,
+        "isSurgery": false,
+        "date": "2015-11-01",
+        "time": "2:00 PM",
+        "patientInstruction": "Please arrive at clinic 15 minutes prior to appointment time.",
+        "cancelDirectAllowed": true,
+        "cancelRequestAllowed": true,
+        "cancelRequestSent": false,
+        "isedVisit": false,
+        "providers": [
+            {
+                "id": null,
+                "name": "Meena Mital, MD",
+                "phone": "206-320-3399",
+                "departments": [
+                    {
+                        "id": null,
+                        "idType": null,
+                        "name": "Swedish Physicians West Seattle",
+                        "center": null,
+                        "departmentDirections": null
+                    }
+                ]
+            }
+        ],
+        "providerName": "Meena Mital, MD",
+        "providerPhone": "206-320-3399",
+        "providerDepartment": "Swedish Physicians West Seattle",
+        "appointmentId": "57673_93"
+    },
+    {
+        "confirmStatus": null,
+        "visitType": "New Patient",
+        "surgeryTimeOfDay": null,
+        "isSurgery": false,
+        "date": "2015-11-01",
+        "time": "5:00 PM",
+        "patientInstruction": "",
+        "cancelDirectAllowed": true,
+        "cancelRequestAllowed": true,
+        "cancelRequestSent": false,
+        "isedVisit": false,
+        "providers": [
+            {
+                "id": null,
+                "name": "Meena Mital, MD",
+                "phone": "206-320-3399",
+                "departments": [
+                    {
+                        "id": null,
+                        "idType": null,
+                        "name": "Swedish Physicians West Seattle",
+                        "center": null,
+                        "departmentDirections": null
+                    }
+                ]
+            }
+        ],
+        "providerName": "Meena Mital, MD",
+        "providerPhone": "206-320-3399",
+        "providerDepartment": "Swedish Physicians West Seattle",
+        "appointmentId": "57673_97"
+    },
+    {
+        "confirmStatus": null,
+        "visitType": "New Patient",
+        "surgeryTimeOfDay": null,
+        "isSurgery": false,
+        "date": "2015-11-07",
+        "time": "7:45 AM",
+        "patientInstruction": "",
+        "cancelDirectAllowed": true,
+        "cancelRequestAllowed": true,
+        "cancelRequestSent": false,
+        "isedVisit": false,
+        "providers": [
+            {
+                "id": null,
+                "name": "Meena Mital, MD",
+                "phone": "206-320-3399",
+                "departments": [
+                    {
+                        "id": null,
+                        "idType": null,
+                        "name": "Swedish Physicians West Seattle",
+                        "center": null,
+                        "departmentDirections": null
+                    }
+                ]
+            }
+        ],
+        "providerName": "Meena Mital, MD",
+        "providerPhone": "206-320-3399",
+        "providerDepartment": "Swedish Physicians West Seattle",
+        "appointmentId": "57667_99"
+    },
+    {
+        "confirmStatus": null,
+        "visitType": "New Patient",
+        "surgeryTimeOfDay": null,
+        "isSurgery": false,
+        "date": "2015-11-07",
+        "time": "9:30 AM",
+        "patientInstruction": "",
+        "cancelDirectAllowed": true,
+        "cancelRequestAllowed": true,
+        "cancelRequestSent": false,
+        "isedVisit": false,
+        "providers": [
+            {
+                "id": null,
+                "name": "Meena Mital, MD",
+                "phone": "206-320-3399",
+                "departments": [
+                    {
+                        "id": null,
+                        "idType": null,
+                        "name": "Swedish Physicians West Seattle",
+                        "center": null,
+                        "departmentDirections": null
+                    }
+                ]
+            }
+        ],
+        "providerName": "Meena Mital, MD",
+        "providerPhone": "206-320-3399",
+        "providerDepartment": "Swedish Physicians West Seattle",
+        "appointmentId": "57668"
+    },
+    {
+        "confirmStatus": null,
+        "visitType": "New Patient",
+        "surgeryTimeOfDay": null,
+        "isSurgery": false,
+        "date": "2015-11-08",
+        "time": "7:15 AM",
+        "patientInstruction": "",
+        "cancelDirectAllowed": true,
+        "cancelRequestAllowed": true,
+        "cancelRequestSent": false,
+        "isedVisit": false,
+        "providers": [
+            {
+                "id": null,
+                "name": "Meena Mital, MD",
+                "phone": "206-320-3399",
+                "departments": [
+                    {
+                        "id": null,
+                        "idType": null,
+                        "name": "Swedish Physicians West Seattle",
+                        "center": null,
+                        "departmentDirections": null
+                    }
+                ]
+            }
+        ],
+        "providerName": "Meena Mital, MD",
+        "providerPhone": "206-320-3399",
+        "providerDepartment": "Swedish Physicians West Seattle",
+        "appointmentId": "57666_99"
+    },
+    {
+        "confirmStatus": null,
+        "visitType": "New Patient",
+        "surgeryTimeOfDay": null,
+        "isSurgery": false,
+        "date": "2015-11-08",
+        "time": "4:00 PM",
+        "patientInstruction": "",
+        "cancelDirectAllowed": true,
+        "cancelRequestAllowed": true,
+        "cancelRequestSent": false,
+        "isedVisit": false,
+        "providers": [
+            {
+                "id": null,
+                "name": "Meena Mital, MD",
+                "phone": "206-320-3399",
+                "departments": [
+                    {
+                        "id": null,
+                        "idType": null,
+                        "name": "Swedish Physicians West Seattle",
+                        "center": null,
+                        "departmentDirections": null
+                    }
+                ]
+            }
+        ],
+        "providerName": "Meena Mital, MD",
+        "providerPhone": "206-320-3399",
+        "providerDepartment": "Swedish Physicians West Seattle",
+        "appointmentId": "57667"
+    },
+    {
+        "confirmStatus": null,
+        "visitType": "New Patient",
+        "surgeryTimeOfDay": null,
+        "isSurgery": false,
+        "date": "2015-11-15",
+        "time": "1:30 PM",
+        "patientInstruction": "",
+        "cancelDirectAllowed": true,
+        "cancelRequestAllowed": true,
+        "cancelRequestSent": false,
+        "isedVisit": false,
+        "providers": [
+            {
+                "id": null,
+                "name": "Meena Mital, MD",
+                "phone": "206-320-3399",
+                "departments": [
+                    {
+                        "id": null,
+                        "idType": null,
+                        "name": "Swedish Physicians West Seattle",
+                        "center": null,
+                        "departmentDirections": null
+                    }
+                ]
+            }
+        ],
+        "providerName": "Meena Mital, MD",
+        "providerPhone": "206-320-3399",
+        "providerDepartment": "Swedish Physicians West Seattle",
+        "appointmentId": "57660"
+    },
+    {
+        "confirmStatus": null,
+        "visitType": "New Patient",
+        "surgeryTimeOfDay": null,
+        "isSurgery": false,
+        "date": "2015-11-21",
+        "time": "11:15 AM",
+        "patientInstruction": "",
+        "cancelDirectAllowed": true,
+        "cancelRequestAllowed": true,
+        "cancelRequestSent": false,
+        "isedVisit": false,
+        "providers": [
+            {
+                "id": null,
+                "name": "Meena Mital, MD",
+                "phone": "206-320-3399",
+                "departments": [
+                    {
+                        "id": null,
+                        "idType": null,
+                        "name": "Swedish Physicians West Seattle",
+                        "center": null,
+                        "departmentDirections": null
+                    }
+                ]
+            }
+        ],
+        "providerName": "Meena Mital, MD",
+        "providerPhone": "206-320-3399",
+        "providerDepartment": "Swedish Physicians West Seattle",
+        "appointmentId": "57654"
+    }
+]
