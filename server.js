@@ -6,7 +6,7 @@ var bodyParser = require('body-parser');
 var logger = require('./utils/logger');
 var app = express();
 var expressListRoutes   = require('express-list-routes');
-var Q = require('Q');
+var Q = require('q');
 var config = require('./config/config');
 
 function databaseConnect() {
