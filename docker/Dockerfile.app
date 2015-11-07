@@ -21,7 +21,7 @@ RUN apt-get -qq -y install git && \
 WORKDIR /humanapitestserver
 
 # Expose port
-EXPOSE  80
+EXPOSE  3001
 
 # Set Env
 ENV NODE_ENV=dev
